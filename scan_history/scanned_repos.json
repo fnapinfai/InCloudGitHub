@@ -8329,8 +8329,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "prynshusaini/AutoSocial-AI": {
+      "first_scan": "2026-09-19 07:02:40",
+      "last_scan": "2026-09-19 07:02:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "reorx/ai.py": {
+      "first_scan": "2026-09-19 07:02:46",
+      "last_scan": "2026-09-19 07:02:46",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1190,
-  "last_updated": "2026-09-17 14:18:20"
+  "total_scanned": 1192,
+  "last_updated": "2026-09-19 07:02:46"
 }
