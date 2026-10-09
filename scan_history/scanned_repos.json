@@ -8525,8 +8525,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "unblocklabs-ai/openclaw-iphone-ops": {
+      "first_scan": "2026-10-09 08:31:15",
+      "last_scan": "2026-10-09 08:31:15",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1218,
-  "last_updated": "2026-10-08 08:26:15"
+  "total_scanned": 1219,
+  "last_updated": "2026-10-09 08:31:15"
 }
