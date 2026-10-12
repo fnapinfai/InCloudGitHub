@@ -8532,8 +8532,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "microsoft/AesCode": {
+      "first_scan": "2026-10-12 08:39:25",
+      "last_scan": "2026-10-12 08:39:25",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 1219,
-  "last_updated": "2026-10-09 08:31:15"
+  "total_scanned": 1220,
+  "last_updated": "2026-10-12 08:39:25"
 }
